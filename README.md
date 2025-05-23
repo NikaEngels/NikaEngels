@@ -1,5 +1,5 @@
 ![Header](https://github.com/NikaEngels/NikaEngels/blob/main/assets/satoru-gojo-jujutsu-kaisen-magicheskaia-bitva.jpg)
 
-About Me
+## Я начинающий QA инженер
 
 Languages and Tools
