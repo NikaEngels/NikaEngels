@@ -1,8 +1,12 @@
+## Hi,guys
+
+## My name is Nika and I'm junior QA engineer,nice to meet you
+
+[!Picture][<div class="tenor-gif-embed" data-postid="7599056546983191152" data-share-method="host" data-aspect-ratio="1.0375" data-width="100%"><a href="https://tenor.com/view/anime-frieren-fire-flames-hot-gif-7599056546983191152">Anime Frieren GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>]
+
 ## CV
 
 [CV](<///D:/download/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B2%D0%B0%20%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%20QA%20Engineer%20CV%20(1).pdf>)
-
-## Примеры тестовых документаций
 
 ## Documentation
 
