@@ -2,7 +2,7 @@
 
 ## My name is Nika and I'm junior QA engineer, nice to meet you
 
-[!Header][https://github.com/NikaEngels/NikaEngels/blob/main/assets/anime-frieren.gif]
+[![Header](https://github.com/NikaEngels/NikaEngels/blob/main/assets/anime-frieren.gif)]
 
 ## CV
 
