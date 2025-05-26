@@ -13,4 +13,4 @@
 
 ## Connection
 
-[![Google](https://img.shields.io/badge/-Google-4D5BA3?style=for-the-badge&logo=Google&logoColor=red)](mailto:nikaengelswk@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-4D5BA3?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/feuerfier)
+[![Google](https://img.shields.io/badge/-Google-4D5BA3?style=for-the-badge&logo=Google&logoColor=red)](https://nikaengelswk@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-4D5BA3?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/feuerfier)
