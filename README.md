@@ -1,8 +1,8 @@
 ## Hi,guys
 
-## My name is Nika and I'm junior QA engineer, nice to meet you
+### My name is Nika, and I’m a Junior QA Engineer. Here, I share web testing portfolio items developed through courses and personal projects. You can also view my resume here.
 
-[![Header](https://github.com/NikaEngels/NikaEngels/blob/main/assets/anime-frieren.gif)]
+![Header](https://github.com/NikaEngels/NikaEngels/blob/main/assets/anime-frieren.gif)
 
 ## CV
 
