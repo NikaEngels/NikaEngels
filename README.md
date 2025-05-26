@@ -2,7 +2,7 @@
 
 ## My name is Nika and I'm junior QA engineer,nice to meet you
 
-[!Picture][<div class="tenor-gif-embed" data-postid="7599056546983191152" data-share-method="host" data-aspect-ratio="1.0375" data-width="100%"><a href="https://tenor.com/view/anime-frieren-fire-flames-hot-gif-7599056546983191152">Anime Frieren GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>]
+[!Picture][div class="tenor-gif-embed" data-postid="7599056546983191152" data-share-method="host" data-aspect-ratio="1.0375" data-width="100%"><a href="https://tenor.com/view/anime-frieren-fire-flames-hot-gif-7599056546983191152">Anime Frieren GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script]
 
 ## CV
 
