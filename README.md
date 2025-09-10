@@ -1,6 +1,6 @@
 ## Hi,guys! <img src="https://github.com/NikaEngels/NikaEngels/blob/main/assets/icons8-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5.gif " width="20" height="20">
 
-### My name is Nika, and I’m a Junior QA Engineer. Here, I share web testing portfolio items developed through courses and personal projects. You can also view my resume [here](https://github.com/NikaEngels/NikaEngels/blob/main/resume/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B2%D0%B0%20%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%20QA%20Engineer%20CV%20.pdf)
+### You can also view my resume [here](https://github.com/NikaEngels/NikaEngels/blob/main/resume/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B2%D0%B0%20%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%20QA%20Engineer%20CV%20.pdf)
 
 <img src="https://github.com/NikaEngels/NikaEngels/blob/main/assets/anime-frieren.gif" width="300" height="300" style="float:right; margin-left: 20px;">
 
